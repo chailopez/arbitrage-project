@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/arbitrage-project/static/css/main.a585d1c2.chunk.css",
+    "main.js": "/arbitrage-project/static/js/main.23db21fc.chunk.js",
+    "main.js.map": "/arbitrage-project/static/js/main.23db21fc.chunk.js.map",
+    "runtime-main.js": "/arbitrage-project/static/js/runtime-main.b67d87cf.js",
+    "runtime-main.js.map": "/arbitrage-project/static/js/runtime-main.b67d87cf.js.map",
+    "static/js/2.8f2c787b.chunk.js": "/arbitrage-project/static/js/2.8f2c787b.chunk.js",
+    "static/js/2.8f2c787b.chunk.js.map": "/arbitrage-project/static/js/2.8f2c787b.chunk.js.map",
+    "static/js/3.f909631a.chunk.js": "/arbitrage-project/static/js/3.f909631a.chunk.js",
+    "static/js/3.f909631a.chunk.js.map": "/arbitrage-project/static/js/3.f909631a.chunk.js.map",
+    "index.html": "/arbitrage-project/index.html",
+    "static/css/main.a585d1c2.chunk.css.map": "/arbitrage-project/static/css/main.a585d1c2.chunk.css.map",
+    "static/js/2.8f2c787b.chunk.js.LICENSE.txt": "/arbitrage-project/static/js/2.8f2c787b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b67d87cf.js",
+    "static/js/2.8f2c787b.chunk.js",
+    "static/css/main.a585d1c2.chunk.css",
+    "static/js/main.23db21fc.chunk.js"
+  ]
+}
