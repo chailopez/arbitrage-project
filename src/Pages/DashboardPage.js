@@ -10,7 +10,8 @@ const DashboardPage = () => {
         <div className="container">
             <div className="row">
                 <div className="col-6 col-sm-12">
-                    <h4>Table 1 chills</h4>
+                    <h4>Table 1</h4>
+                    <h4>Table 1</h4>
                     <ExchangeSushiswapTable />
                 </div>
 
